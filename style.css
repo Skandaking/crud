@@ -1,0 +1,56 @@
+
+.navbar {
+    background-color: #000; 
+    color: #fff; 
+  }
+  
+  .container {
+    padding: 20px;
+  }
+  
+  .form-label {
+    font-weight: bold;
+  }
+  
+  
+  .btn-success {
+    background-color: #000;
+    border-color: #34C759;
+    padding: 10px 30px;
+    font-size: 16px;
+    font-weight: bold;
+  }
+  
+  .btn-success:hover {
+    background-color: #2E865F;
+    border-color: #2E865F;
+  }
+  
+  .btn-danger {
+    background-color: #FF3737;;
+    border-color: #4c4444;
+    padding: 10px 30px;
+    font-size: 16px;
+    font-weight: bold;
+  }
+  
+  .btn-danger:hover {
+    background-color: #CC3333;
+    border-color: #CC3333;
+  }
+
+  .link-dark {
+    text-decoration: none;
+  }
+  
+  .link-dark:hover {
+    text-decoration: none;
+  }
+  
+  .fa-pen-to-square {
+    color: #337AB7; 
+  }
+  
+  .fa-trash {
+    color: #FF3737; 
+  }
