@@ -42,7 +42,7 @@ if (isset($_POST["submit"])) {
 
 <body>
 <nav class="navbar navbar-dark bg-dark justify-content-center fs-3 mb-5">
-  Tammie's CRUD App 
+  CRUD App 
 </nav>
 
    <div class="container">
